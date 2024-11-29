@@ -1,0 +1,8 @@
+streamlit
+Pillow
+pytesseract
+pyttsx3
+python-dotenv
+google.generativeai
+langchain-google-genai
+typing-extensions 
